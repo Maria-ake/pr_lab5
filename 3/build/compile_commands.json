@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/program/lab5/3/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -std=gnu++17 -o CMakeFiles\\lab5_task3.dir\\main.cpp.obj -c D:\\program\\lab5\\3\\main.cpp",
+  "file": "D:/program/lab5/3/main.cpp",
+  "output": "D:/program/lab5/3/build/CMakeFiles/lab5_task3.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/program/lab5/3/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -std=gnu++17 -o CMakeFiles\\lab5_task3.dir\\callchain.cpp.obj -c D:\\program\\lab5\\3\\callchain.cpp",
+  "file": "D:/program/lab5/3/callchain.cpp",
+  "output": "D:/program/lab5/3/build/CMakeFiles/lab5_task3.dir/callchain.cpp.obj"
+}
+]

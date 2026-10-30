@@ -1,0 +1,4 @@
+# ninja log v7
+2	489	8150645441808956	CMakeFiles/lab5_long_arithmetic.dir/main.cpp.obj	40c5c5a9a97e598
+8	625	8150645441863611	CMakeFiles/lab5_long_arithmetic.dir/longarithmetic.cpp.obj	163f8bfa62ebbeea
+625	758	8150645448029943	lab5_long_arithmetic.exe	aa4706a9cb53df1a

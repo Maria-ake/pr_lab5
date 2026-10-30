@@ -1,0 +1,3 @@
+D:/program/lab5/2/build/CMakeFiles/lab5_task2.dir
+D:/program/lab5/2/build/CMakeFiles/edit_cache.dir
+D:/program/lab5/2/build/CMakeFiles/rebuild_cache.dir

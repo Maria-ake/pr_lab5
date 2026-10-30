@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/program/lab5/2/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -std=gnu++17 -o CMakeFiles\\lab5_task2.dir\\main.cpp.obj -c D:\\program\\lab5\\2\\main.cpp",
+  "file": "D:/program/lab5/2/main.cpp",
+  "output": "D:/program/lab5/2/build/CMakeFiles/lab5_task2.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/program/lab5/2/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -std=gnu++17 -o CMakeFiles\\lab5_task2.dir\\divider.cpp.obj -c D:\\program\\lab5\\2\\divider.cpp",
+  "file": "D:/program/lab5/2/divider.cpp",
+  "output": "D:/program/lab5/2/build/CMakeFiles/lab5_task2.dir/divider.cpp.obj"
+}
+]

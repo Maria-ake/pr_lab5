@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/program/lab5/1/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -std=gnu++17 -o CMakeFiles\\lab5_long_arithmetic.dir\\main.cpp.obj -c D:\\program\\lab5\\1\\main.cpp",
+  "file": "D:/program/lab5/1/main.cpp",
+  "output": "D:/program/lab5/1/build/CMakeFiles/lab5_long_arithmetic.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/program/lab5/1/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -std=gnu++17 -o CMakeFiles\\lab5_long_arithmetic.dir\\longarithmetic.cpp.obj -c D:\\program\\lab5\\1\\longarithmetic.cpp",
+  "file": "D:/program/lab5/1/longarithmetic.cpp",
+  "output": "D:/program/lab5/1/build/CMakeFiles/lab5_long_arithmetic.dir/longarithmetic.cpp.obj"
+}
+]

@@ -1,0 +1,4 @@
+# ninja log v7
+9	373	8150645946839268	CMakeFiles/lab5_task3.dir/callchain.cpp.obj	d0081a993d7d5d41
+3	435	8150645946839268	CMakeFiles/lab5_task3.dir/main.cpp.obj	45736c9ebd3cd7e2
+435	586	8150645951156114	lab5_task3.exe	47fd47efd5bbcc47
